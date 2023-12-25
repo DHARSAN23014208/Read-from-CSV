@@ -1,4 +1,4 @@
-![image](https://github.com/DHARSAN23014208/Read-from-CSV/assets/149365413/1cbc04e4-809d-495a-8e42-ea692f9b266f)![image](https://github.com/DHARSAN23014208/Read-from-CSV/assets/149365413/61a8c0fe-e9f1-4c96-ae10-fe569755649f)# Read-from-CSV
+# Read-from-CSV
 
 ## AIM:To write the python program for reading content from a csv file.
 
